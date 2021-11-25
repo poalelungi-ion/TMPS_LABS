@@ -1,0 +1,74 @@
+{
+  "Anxiety" : [
+    "It's going to be okay",
+    "Do you wanna talk about it?",
+    "You're stronger than this",
+    "You're gonna overcome your anxiety",
+    "Do you want me to tell you a joke?",
+    "How can I comfort you?",
+    "How often do you feel like this?",
+    "Maybe you should visit a specialist?",
+    "What makes you feel anxious?",
+    "You should drink a cup of tea"
+  ],
+  "ptsd" : [
+        "What exactly happened to you?",
+        "Do you wanna talk about it?",
+        "Tell me more",
+        "When did it happen?",
+        "How does it make you feel now?",
+        "You are brave and strong",
+        "You can get through this",
+        "I am here for you",
+        "What emotions are you feeling right now?",
+        "I know you are overwhelmed, but together we can manage it"
+  ],
+  "bullying" : [
+        "You are going to be okay",
+        "How can I help you?",
+        "Tell me everything about it",
+        "Tell me how do you feel",
+        "Why do you think this is happening?",
+        "Are you getting any help?",
+        "Do your siblings know?",
+        "I know it must be hard, but you're gonna get through this",
+        "You should talk to your family about it",
+        "Do not bottle everything in, you need to talk in order to feel better"
+  ],
+  "depression" : [
+        "How are you feeling today?",
+        "Don't cry, we're in this together",
+        "Do not worry, I am here to help",
+        "It must be difficult for you",
+        "You should see a mental health specialist",
+        "Everything is going to be okay",
+        "There must be a way out",
+        "Remember you're not alone",
+        "Keep yourself occupied with hobbies you enjoy",
+        "You should get some fresh air"
+  ],
+  "rape" : [
+        "Do you want me to alert the police?",
+        "Do you need a doctor?",
+        "It must be really stressing for you",
+        "Know you're not alone",
+        "I am here for you",
+        "Let's talk about it",
+        "What are you feeling right now?",
+        "How can I help you?",
+        "If you let everything out, you will feel better",
+        "Do you want me to refer you to a mental health specialist?"
+  ],
+  "abuse" : [
+        "Tell me about what happened to you?",
+        "Who did this to you?",
+        "Do any of your friends and family know about it?",
+        "You must call the police",
+        "You are going to be okay, give it time",
+        "I am here to support you",
+        "Do not blame yourself for what happened",
+        "You must see a specialist",
+        "How can I help you get through this?",
+        "You are strong and we are gonna find a way out "
+  ]
+}
